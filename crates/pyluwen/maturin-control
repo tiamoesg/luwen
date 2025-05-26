@@ -1,0 +1,10 @@
+Section: misc
+Priority: optional
+Standards-Version: 3.9.2
+
+Package: maturin
+Version: 99.0
+Maintainer: You <you@example.com>
+Architecture: all
+Description: Dummy maturin package to satisfy build dependencies
+ This is a fake package that marks maturin as installed for dpkg.

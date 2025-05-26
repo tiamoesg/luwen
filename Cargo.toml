@@ -41,3 +41,7 @@ test_p300 = []
 
 [workspace]
 members = ["crates/*", "app/*"]
+
+[[bin]]
+name = "drunken_monkey"
+path = "src/bin/drunken_monkey/main.rs"

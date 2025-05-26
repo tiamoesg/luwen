@@ -74,7 +74,7 @@ License:        Apache-2.0
 %doc SUMMARY.md
 %doc TODO.md
 %{_bindir}/detect_test
-%{_bindir}/druken_monkey
+%{_bindir}/drunken_monkey
 %{_bindir}/ethernet_benchmark
 %{_bindir}/generate_names
 %{_bindir}/luwen-cem
