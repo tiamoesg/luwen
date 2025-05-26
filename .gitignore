@@ -2,3 +2,7 @@
 /Cargo.lock
 .py03-env
 /data
+
+# Ignore Python virtual environments
+**/venv/
+**/.venv/
